@@ -1,5 +1,5 @@
 import numpy as np
-print("Multipliucacion de matrices con numpy")
+print("Multiplicacion de matrices con numpy")
 
 print("Ingrese las dimesiones de la primera matriz")
 a=int(input("Filas:"))
